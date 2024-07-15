@@ -1,0 +1,3 @@
+Name: Murli, Age: 27, Salary: 1000000
+Name: Pratik, Age: 10, Salary: 0
+Name: Pratik, Age: 10, Salary: 0
